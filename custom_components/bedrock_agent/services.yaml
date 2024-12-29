@@ -33,6 +33,9 @@ cognitive_task:
             - "mistral.mixtral-8x7b-instruct-v0:1"
             - "mistral.mistral-large-2402-v1:0"
             - "mistral.mistral-small-2402-v1:0"
+            - "amazon.nova-pro-v1:0"
+            - "anthropic.claude-3-5-sonnet-20241022-v2:0"
+            - "meta.llama3-3-70b-instruct-v1:0"
     image_filenames:
       required: false
       selector:
